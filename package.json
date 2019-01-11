@@ -38,6 +38,7 @@
     "eslint-plugin-react": "^7.12.3",
 >>>>>>> upstream/master
     "gh-pages": "^2.0.1",
-    "prettier": "^1.15.3"
+    "prettier": "^1.15.3",
+    "tachyons": "^4.10.0"
   }
 }
